@@ -1,8 +1,6 @@
 ﻿# Task-tracker-web-app using REACTJS
 
 Assumptions while designing
-
-
 1. Task Management Focus: The application is designed primarily for efficient task management.
 
 2. Styling Preferences: Users prefer a clean and modern interface with minimalist styling.
