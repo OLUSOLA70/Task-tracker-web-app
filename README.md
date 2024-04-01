@@ -1,7 +1,7 @@
 ﻿# Task-tracker-web-app using REACTJS
 
 Assumptions while designing
-Certainly! Here's a summary of the assumptions made during the design process:
+
 
 1. Task Management Focus: The application is designed primarily for efficient task management.
 
