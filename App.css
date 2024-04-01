@@ -1,0 +1,33 @@
+body {
+    background-color: #b79ad5; 
+  }
+  
+  .app-container {
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bolder;
+  }
+  
+  .profile-icon {
+    
+        font-size: 12px; 
+        padding: 5px; 
+        border-radius: 50%; 
+        background-color: #ffffff; 
+        color: #000000; 
+      }
+      
+  
+  
+  
